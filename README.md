@@ -24,22 +24,33 @@ To develop a speech synthesis model that:
 - **Dataset:** Mozilla Common Voice (English, Delta Segment 12.0)
 
 ## 📌 Proposed Pipeline
-
-![Pipeline](docs/pipeline.PNG)
+<h2>📊 Pipeline Overview</h2>
+<p align="center">
+  <img src="docs/pipeline.PNG" alt="Pipeline Overview" width="500"/>
+</p>
 
 ## 🧪 Results
 **Word Error Rate (WER):**
-![Pipeline](docs/wer1.png)
 
-![Pipeline](docs/wer2.png)
-
-![Pipeline](docs/wer3.png)
+<h2>📊 WER</h2>
+<p align="center">
+  <img src="docs/wer1.png" alt="WER" width="400"/>
+</p>
 **MCD-DTW:**
-![Pipeline](docs/mcd1.png)
 
-![Pipeline](docs/mcd2.png)
+<h2>📊 Coqui-proposed</h2>
+<p align="center">
+  <img src="docs/mcd1.png" alt="Coqui-proposed-mcd" width="400"/>
+</p>
+<h2>📊 nemo-proposed</h2>
+<p align="center">
+  <img src="docs/mcd2.png" alt="nemo-proposed-mcd" width="400"/>
+</p>
 
-![Pipeline](docs/mcd3.png)
+<h2>📊 selero-proposed</h2>
+<p align="center">
+  <img src="docs/mcd3.png" alt="selero-proposed-mcd" width="400"/>
+</p>
 
 ## 🧰 Tools and Technologies
 
