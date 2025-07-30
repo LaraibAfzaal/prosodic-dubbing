@@ -49,7 +49,7 @@ To develop a speech synthesis model that:
 - `notebooks/` – Colab notebooks with experiments
 - `results/` – Sample audio outputs and plots
 - `docs/` – Slides and project documentation
-- `src/` – Code (if converted from notebook)
+- `src/` – Code 
 
 ## 📜 References
 
