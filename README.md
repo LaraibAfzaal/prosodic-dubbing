@@ -25,15 +25,21 @@ To develop a speech synthesis model that:
 
 ## 📌 Proposed Pipeline
 
-![Pipeline](docs/pipeline.PNG) <!-- Add your image here if available -->
+![Pipeline](docs/pipeline.PNG)
 
 ## 🧪 Results
+**Word Error Rate (WER):**
+![Pipeline](docs/wer1.png)
 
-| Model      | WER (%) | MCD (DTW) |
-|------------|---------|------------|
-| Coqui TTS  | XX.X    | X.XX       |
-| NeMo TTS   | XX.X    | X.XX       |
-| **Proposed** | **XX.X** | **X.XX** |
+![Pipeline](docs/wer2.png)
+
+![Pipeline](docs/wer3.png)
+**MCD-DTW:**
+![Pipeline](docs/mcd1.png)
+
+![Pipeline](docs/mcd2.png)
+
+![Pipeline](docs/mcd3.png)
 
 ## 🧰 Tools and Technologies
 
