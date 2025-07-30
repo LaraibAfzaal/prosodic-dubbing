@@ -25,7 +25,7 @@ To develop a speech synthesis model that:
 
 ## 📌 Proposed Pipeline
 
-![Pipeline](docs/pipeline.png) <!-- Add your image here if available -->
+![Pipeline](docs/pipeline.PNG) <!-- Add your image here if available -->
 
 ## 🧪 Results
 
